@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Po Che</h1>
-<h3 align="center">I am a student passionate about backend engineering.</h3>
+<h3 align="center">I am a student passionate about backend engineering and machine learning.</h3>
 
 - 📫 How to reach me :
 **andy50902@gmail.com**
